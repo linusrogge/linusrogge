@@ -8,7 +8,11 @@ Also, I work with the folks at [Major Keys](https://majorkeys.de) to build up th
 
 ### Personal
 
-Since February 2020, I am self-employed and found my first _company_. Doing this at 15 years was not easy, but I managed to get everything up and running. Check more on [linuscodes.com](https://linuscodes.com)
+Since February 2020, I am self-employed and found my first _company_. Doing this with 15 years was not easy, but I managed to get everything up and running. Check more on [linuscodes.com](https://linuscodes.com)
+
+Feel free to follow my journey on [Instagram](https://instagram.com/linuscodes) or on [Twitter](https://twitter.com/linuscodes). Sometimes, I write down some thoughts and publish them to my [Blog](https://blog.linuscodes.com) as well.
+
+**Have a great day! 🤩**
 
 <!--
 **linuscodes/linuscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
