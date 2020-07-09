@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is Linus, a self-taught and constantly learning front-end developer and UI/UX designer from Hamburg. I am currently working on [Meet](https://themeetapp.de), which is an approach on easier planning to meet your friends.
+
 <!--
 **linuscodes/linuscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
