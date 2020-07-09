@@ -6,6 +6,8 @@ I am currently working on [Meet](https://themeetapp.de), which is an approach fo
 
 Also, I work with the folks at [Major Keys](https://majorkeys.de) to build up the idea of online piano lessons where you can learn at your own speed an always have a coach available to help you with any struggles. I love it!
 
+At the moment, I'm mostly working with html, css(scss), javascript, GoHugo, Vue.js and SwiftUI
+
 ### Personal
 
 Since February 2020, I am self-employed and found my first _company_. Doing this with 15 years was not easy, but I managed to get everything up and running. Check more on [linuscodes.com](https://linuscodes.com)
