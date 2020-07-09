@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 This is Linus, a self-taught and constantly learning front-end developer and UI/UX designer from Hamburg. 
 
