@@ -10,7 +10,7 @@ At the moment, I'm mostly working with html, css(scss), javascript, GoHugo, Vue.
 
 ### Personal
 
-Since February 2020, I am self-employed and found my first _company_. Doing this with 15 years was not easy, but I managed to get everything up and running. Check more on [linuscodes.com](https://linuscodes.com)
+Since February 2020, I am self-employed and founded my first _company_. Doing this with 15 years was not easy, but I managed to get everything up and running. Check more on [linuscodes.com](https://linuscodes.com)
 
 Feel free to follow my journey on [Instagram](https://instagram.com/linuscodes) or on [Twitter](https://twitter.com/linuscodes). Sometimes, I write down some thoughts and publish them to my [Blog](https://blog.linuscodes.com) as well.
 
