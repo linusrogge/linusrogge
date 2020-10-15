@@ -2,11 +2,13 @@
 
 This is Linus, a self-taught and constantly learning front-end developer and UI/UX designer from Hamburg. 
 
-I am currently working on [Meet](https://themeetapp.de), which is an approach for easier planning to meet your friends, together with [Kevin](https://github.com/schaefkn). We're planning to launch the first beta in the middle of July 2020.
+I am currently working on [Meet](https://themeetapp.de), which is an approach for easier planning to meet your friends, together with [Kevin](https://github.com/schaefkn). We're planning to launch the first beta in the middle of July 2020. _Edit: this did not work out quite well, obviously. But we made some progress and will be finished somwhen in november. [Sign up for beta access](https://themeetapp.de#newsletter)_
 
 Also, I work with the folks at [Major Keys](https://majorkeys.de) to build up the idea of online piano lessons where you can learn at your own speed an always have a coach available to help you with any struggles. I love it!
 
 At the moment, I'm mostly working with html, css(scss), javascript, GoHugo, Vue.js and SwiftUI
+
+---
 
 ### Personal
 
