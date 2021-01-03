@@ -1,22 +1,20 @@
-## Hi there 👋
+## hi there 👋
 
-This is Linus, a self-taught and constantly learning front-end developer and UI/UX designer from Hamburg. 
+this is linus, a designer and developer from hamburg. i focus on user-friendly experiences all across web, mobile and desktop. during over five years of experience, i have worked at multiple start-ups and currently work as a self-employed freelancer. i am still trapped in what's called high-school but it is not long to go to explore more parts of the wolrd.
 
-I am currently working on [Meet](https://themeetapp.de), which is an approach for easier planning to meet your friends, together with [Kevin](https://github.com/schaefkn). We're planning to launch the first beta in the middle of July 2020. _Edit: this did not work out quite well, obviously. But we made some progress and will be finished somwhen in november. [Sign up for beta access](https://themeetapp.de#newsletter)_
+also, i work with the folks at [major keys](https://majorkeys.de) to build up the idea of online piano lessons where you can learn at your own speed an always have a coach available to help you with any struggles. i love it!
 
-Also, I work with the folks at [Major Keys](https://majorkeys.de) to build up the idea of online piano lessons where you can learn at your own speed an always have a coach available to help you with any struggles. I love it!
-
-At the moment, I'm mostly working with html, css(scss), javascript, GoHugo, Vue.js and SwiftUI
+at the moment, i'm mostly working with html, css(scss), javascript, GoHugo, Vue.js and SwiftUI
 
 ---
 
-### Personal
+### personal
 
-Since February 2020, I am self-employed and founded my first _company_. Doing this with 15 years was not easy, but I managed to get everything up and running. Check more on [linuscodes.com](https://linuscodes.com)
+since february 2020, i am self-employed and founded my first _company_. doing this with 15 years was not easy, but i managed to get everything up and running. check more on [linuscodes.com](https://linuscodes.com) _new site launching soon!_
 
-Feel free to follow my journey on [Instagram](https://instagram.com/linuscodes) or on [Twitter](https://twitter.com/linuscodes). Sometimes, I write down some thoughts and publish them to my [Blog](https://blog.linuscodes.com) as well.
+feel free to follow my journey on [instagram (@linuscodes)](https://instagram.com/linuscodes) or on [twitter (@linuscodes)](https://twitter.com/linuscodes). sometimes, i write down some thoughts and publish them on [medium (@linuscodes)](https://linuscodes.medium.com) as well.
 
-**Have a great day! 🤩**
+**have a great day! 🤩**
 
 <!--
 **linuscodes/linuscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
