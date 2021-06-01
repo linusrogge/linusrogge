@@ -1,4 +1,4 @@
-# happy pride month! 🏳️‍🌈 #loveislove
+# [happy pride month!](https://linus.gay) 🏳️‍🌈 #loveislove
 
 <!--## hi there 👋
 
