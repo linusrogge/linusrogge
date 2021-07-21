@@ -1,6 +1,4 @@
-# [happy pride month!](https://linus.gay) 🏳️‍🌈 #loveislove
-
-<!--## hi there 👋
+## hi there 👋
 
 this is linus, a designer and developer from hamburg. i focus on user-friendly experiences all across web, mobile and desktop. during over five years of experience, i have worked at multiple start-ups and currently work as a self-employed freelancer. i am still trapped in what's called high-school but it is not long to go to explore more parts of the wolrd.
 
@@ -19,6 +17,7 @@ feel free to follow my journey on [instagram (@linuscodes)](https://instagram.co
 **have a great day! 🤩**
 
 
+<!--
 **linuscodes/linuscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
