@@ -1,3 +1,3 @@
 **Hello**
 
-Warm greetings. Please enjoy your time around. See my [personal website](https://linusrogge.com) or message me on [Twitter](https://twitter.com/linusrogge).
+Warm greetings. Please enjoy your time around. See my [personal website](https://linusrogge.com) or write me a [mail](mailto:hello@linusrogge.com).
